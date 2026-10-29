@@ -1,84 +1,94 @@
-- 
-- 📫 How to reach me seafood.axon_09@icloud.com
--
+# 👋 Hey, I'm SleepyKermit
 
-👋 Hey, I’m SleepyKermit!
+**🛡️ Cybersecurity Student · Linux Enthusiast · Aspiring Security Analyst**
 
-🛡️ Cybersecurity Student | Linux Enthusiast | Aspiring Security Analyst
+B.S. in Cybersecurity @ Western Governors University (WGU)
 
-I’m currently pursuing my B.S. in Cybersecurity at Western Governors University (WGU).
+I'm passionate about understanding how technology works beneath the surface — how attackers exploit vulnerabilities, and how defenders detect, investigate, and prevent incidents.
 
-I’m passionate about understanding how technology works beneath the surface, how attackers exploit vulnerabilities, and how defenders can detect, investigate, and prevent security incidents.
+> **Build it. Break it (ethically). Understand it. Secure it. Document it.**
 
-My philosophy is simple: Build it. Break it (ethically). Understand it. Secure it. Document it.
+---
 
-🔍 What I’m Currently Working On
+## 🔍 What I'm Working On
 
-* 🏠 Home Cybersecurity Lab: Building virtualized environments using Proxmox, Linux, and Windows Server.
-* 🛡️ Security Operations: Developing practical skills in threat detection, log analysis, and incident response.
-* 🌐 Network & Web Security: Learning how infrastructure, APIs, authentication, and web applications are secured.
-* 🐧 Linux Administration: Using Fedora KDE as my daily operating system and strengthening my command-line skills.
-* 🤖 AI & Automation: Experimenting with autonomous agents, Python, and local AI infrastructure.
-* 🔬 Security Research: Exploring vulnerability assessment, reverse engineering, and ethical hacking.
+- 🏠 **Home Cybersecurity Lab** — Virtualized environments built on Proxmox, Linux, and Windows Server
+- 🛡️ **Security Operations** — Threat detection, log analysis, and incident response
+- 🌐 **Network & Web Security** — Infrastructure, APIs, authentication, and application hardening
+- 🐧 **Linux Administration** — Fedora KDE as my daily driver, sharpening command-line skills
+- 🤖 **AI & Automation** — Autonomous agents, Python, and local AI infrastructure
+- 🔬 **Security Research** — Vulnerability assessment, reverse engineering, ethical hacking
 
-🧰 My Technical Toolbox
+---
 
-Operating Systems: Linux (Fedora, Ubuntu, Kali), Windows Server
+## 🧰 Technical Toolbox
 
-Infrastructure: Proxmox VE, Virtual Machines, Active Directory, SSH, Tailscale
+| Area | Tools |
+|---|---|
+| **Operating Systems** | Linux (Fedora, Ubuntu, Kali), Windows Server |
+| **Infrastructure** | Proxmox VE, Virtual Machines, Active Directory, SSH, Tailscale |
+| **Networking & Security** | TCP/IP, DNS, Nmap, Wireshark, SIEM fundamentals, security hardening |
+| **Scripting & Automation** | Python, Bash, PowerShell |
+| **Tools & Platforms** | Git, GitHub, Hack The Box, LetsDefend |
 
-Networking & Security: TCP/IP, DNS, Nmap, Wireshark, SIEM Fundamentals, Security Hardening
+---
 
-Scripting & Automation: Python, Bash, PowerShell
+## 🚀 Featured Projects
 
-Tools & Platforms: Git, GitHub, Hack The Box, Let’sDefend
-
-🚀 Featured Projects
-
-🏠 Virtualized Cybersecurity Home Lab
-
+**🏠 Virtualized Cybersecurity Home Lab**
 A Proxmox-based environment for learning virtualization, networking, system administration, and security monitoring.
 
-🛡️ Active Directory Security Lab
+**🛡️ Active Directory Security Lab**
+A Windows Server environment for practicing identity management, permissions, and access control.
 
-A Windows Server environment for practicing identity management, permissions, access control, and security administration.
+**🤖 AI Automation Lab**
+Experiments with AI agents, Python workflows, API integrations, and autonomous task execution.
 
-🤖 AI Automation Lab
+**🌐 Web Application Security**
+Secure website administration, API credential management, and application security assessment.
 
-Experimenting with AI agents, Python-based workflows, API integrations, and autonomous task execution.
+---
 
-🌐 Web Application Security
+## 📚 Learning Goals
 
-Exploring secure website administration, API credential management, authentication, and application security assessment.
+- 🎓 Complete my B.S. in Cybersecurity
+- 📡 Earn CompTIA Network+ and Security+
+- 🔎 Develop practical SOC analyst and threat-hunting skills
+- 🧠 Strengthen Linux, networking, and Python fundamentals
+- 📝 Publish technical write-ups documenting my projects and lessons learned
 
-📚 Current Learning Goals
+---
 
-* 🎓 Complete my B.S. in Cybersecurity
-* 📡 Earn CompTIA Network+ and Security+
-* 🔎 Develop practical SOC analyst and threat-hunting skills
-* 🧠 Strengthen Linux, networking, and Python fundamentals
-* 📝 Publish technical write-ups documenting my projects and lessons learned
+## 🏆 Certifications
 
-🏆 Certifications
+- ✅ CompTIA A+
+- ✅ Google IT Support Professional Certificate
+- 📖 CompTIA Network+ — studying
+- 🎯 CompTIA Security+ — planned
 
-* ✅ CompTIA A+
-* ✅ Google IT Support Professional Certificate
-* 📖 CompTIA Network+ — Studying
-* 🎯 CompTIA Security+ — Planned
+---
 
-💭 My Approach to Learning
+## 💭 How I Learn
 
-I don’t just want to know which commands to run. I want to understand why they work, what happens behind the scenes, and how the technology fits into the bigger picture.
+I don't just want to know which commands to run. I want to understand *why* they work, what happens behind the scenes, and how the technology fits into the bigger picture. Every lab, failed configuration, and troubleshooting session is another rep.
 
-Every lab, failed configuration, troubleshooting session, and solved problem is another opportunity to become a better security professional.
+---
 
-⸻
+## 🌱 Fun Facts
 
-📫 Connect with me: https://www.linkedin.com/in/dykari-m-89b42a283
+- Turn chaos into structured blueprints 📋
+- Believe security should be invisible but unbreakable
+- When I'm not securing things, I'm probably breaking them (ethically, of course) 🔓
 
-⚡ Curiosity drives the investigation. Understanding builds the defense.
+---
 
-<!---
-SleepyKermit/SleepyKermit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dykari-m-89b42a283) · seafood.axon_09@icloud.com
+
+⚡ *Curiosity drives the investigation. Understanding builds the defense.*
+
+> *"The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room with armed guards."* — Gene Spafford
+
+<!--
+SleepyKermit/SleepyKermit is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
+
